@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Room_DataBase_Hilt</string>
+    <string name="insert_data">Insert Data</string>
+    <string name="student_name">Name</string>
+    <string name="enter_student_name_here">Enter name here</string>
+    <string name="enter_address_here">Enter address here</string>
+    <string name="address">Address</string>
+    <string name="mobile">Mobile</string>
+    <string name="enter_mobile_number_here">Enter mobile number here</string>
+    <string name="name">Name :</string>
+    <string name="address_">Address :</string>
+    <string name="mobile_">Mobile :</string>
+    <string name="read_all_data">Read All Data</string>
+    <string name="delete">Delete</string>
 </resources>
